@@ -1,4 +1,4 @@
-# Project Name
+# FOOD DELIVERY APP
 
 This is a food app project created using React.js and Tailwind CSS.
 
@@ -17,5 +17,5 @@ This project serves as a template for building web applications with React.js an
 
 1. Clone the repository:
 
-   ```bash
+   ```bash        https://github.com/adsrivastav/Food-delivery_APP/tree/main
   
