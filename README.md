@@ -15,9 +15,13 @@ This project serves as a template for building web applications with React.js an
 
 
 ## ScreenShots
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+![image](https://github.com/adsrivastav/Food-delivery_APP/assets/119664409/ae8311cd-748d-41c5-b0a0-932550622268)
+![image](https://github.com/adsrivastav/Food-delivery_APP/assets/119664409/79d93e6c-c2d2-4b78-8887-f34c4e17a394)
+
+![image](https://github.com/adsrivastav/Food-delivery_APP/assets/119664409/efd41db0-0057-480c-971b-bff4c5d805de)
+
+
 
 
 
