@@ -13,6 +13,15 @@ This project serves as a template for building web applications with React.js an
 - Easy to customize and extend
 - Responsive design out of the box
 
+
+## ScreenShots
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
 ## Installation
 
 1. Clone the repository:
